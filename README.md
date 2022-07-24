@@ -3,7 +3,7 @@ A simple clone of the Yelp app developed from scratch as part of CodePath’s iO
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [x] Load data from Yelp API
 - [x] Search Bar
