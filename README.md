@@ -1,5 +1,5 @@
-# Yelpy
-A simple clone of the Yelp app developed from scratch as part of CodePath’s iOS Curriculum. iOS app that integrates Yelp Fusion API, custom MongoDB + Parse backend server hosted on Back4App.
+# Yelp Clone
+A simple clone of the Yelp app developed from scratch as part of CodePath’s iOS Curriculum. iOS (Swift) app that integrates Yelp Fusion API, custom MongoDB + Parse backend server hosted on Back4App.
 
 ## User Stories
 
